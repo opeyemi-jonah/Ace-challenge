@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-10T17:39:23.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="8MhTHz7ZvYtBjUX0KRuz" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-10T17:40:48.967Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="XoyZsAqnfqHKTiBQvP8g" version="13.6.2" type="github">
   <diagram id="q5R3Dt5Ln6kWzOWciJaN" name="Page-1">
     <mxGraphModel dx="868" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -55,9 +55,6 @@
         <mxCell id="syn1SnmbYH_Y4uBIwDDC-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="450" y="770" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="syn1SnmbYH_Y4uBIwDDC-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="450" y="850" width="280" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="syn1SnmbYH_Y4uBIwDDC-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#4D4D4D;" edge="1" parent="1" source="syn1SnmbYH_Y4uBIwDDC-18" target="syn1SnmbYH_Y4uBIwDDC-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -87,6 +84,17 @@
         </mxCell>
         <mxCell id="syn1SnmbYH_Y4uBIwDDC-43" value="Go Back" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=2;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="800" y="1110" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="syn1SnmbYH_Y4uBIwDDC-44" value="Due date" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="350" y="810" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="syn1SnmbYH_Y4uBIwDDC-45" value="" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;html=1;strokeWidth=2;fontColor=#596780;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="450" y="843.5" width="280" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="syn1SnmbYH_Y4uBIwDDC-46" value="" style="shape=mxgraph.gmdl.calendar;fillColor=#5A6881;strokeColor=none" vertex="1" parent="syn1SnmbYH_Y4uBIwDDC-45">
+          <mxGeometry x="1" y="0.5" width="18" height="18" relative="1" as="geometry">
+            <mxPoint x="-29" y="-9" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
