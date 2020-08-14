@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-14T17:26:51.869Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36 OPR/69.0.3686.95" etag="brm_vv8SJZb-jl2Z3APt" version="13.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-08-14T17:27:24.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36 OPR/69.0.3686.95" etag="PwPs70d0Dki5T7Js7_Hn" version="13.6.2" type="github" pages="2">
   <diagram id="FG9BS8m6Aq1ZOrA0WvgN" name="Page-1">
     <mxGraphModel dx="473" dy="1358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -112,8 +112,8 @@
         <mxCell id="Cww_4uUf4-sxZRk8ilHu-84" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Location&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Cww_4uUf4-sxZRk8ilHu-98">
           <mxGeometry x="51.25" y="5" width="86" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Cww_4uUf4-sxZRk8ilHu-63" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.location;" vertex="1" parent="Cww_4uUf4-sxZRk8ilHu-98">
-          <mxGeometry x="10" y="5" width="20" height="20" as="geometry" />
+        <mxCell id="Cww_4uUf4-sxZRk8ilHu-63" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;shadow=0;dashed=0;shape=mxgraph.ios7.icons.location;strokeColor=#CCCCCC;" vertex="1" parent="Cww_4uUf4-sxZRk8ilHu-98">
+          <mxGeometry x="20" y="10" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Cww_4uUf4-sxZRk8ilHu-64" value="&lt;font style=&quot;font-size: 24px&quot;&gt;CONTACT INFORMATION&lt;/font&gt;" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#4D4D4D;" vertex="1" parent="u197wY4B6SGhlcCvIEL5-1">
           <mxGeometry x="319" y="550" width="306" height="20" as="geometry" />
