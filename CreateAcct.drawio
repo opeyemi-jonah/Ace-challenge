@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-21T15:00:14.327Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="NAogzo-d1ZPVPHxCO6-6" version="13.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-08-21T15:02:45.960Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="0FtwoXueAEaCQEvd4pTQ" version="13.6.4" type="github" pages="4">
   <diagram id="FG9BS8m6Aq1ZOrA0WvgN" name="Page-1">
     <mxGraphModel dx="1736" dy="1902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1056,7 +1056,7 @@
           <mxGeometry x="758" y="10" width="432" height="200" as="geometry" />
         </mxCell>
         <mxCell id="23kLbWubAsYIDSwPkkwS-0" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#808080;fillColor=#CCCCCC;fontSize=17;fontColor=#FFFFFF;" vertex="1" parent="ew6zjy4uRNtWZPsNfuG--1">
-          <mxGeometry x="1054.75" y="70" width="116" height="116" as="geometry" />
+          <mxGeometry x="1024" y="60" width="136" height="136" as="geometry" />
         </mxCell>
         <mxCell id="0yXzGm1ALeRcCWGyxMI9-0" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Dr Lorem Ipsum&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ew6zjy4uRNtWZPsNfuG--1">
           <mxGeometry x="770" y="80" width="137.86" height="21.09" as="geometry" />
@@ -1068,13 +1068,10 @@
           <mxGeometry x="770" y="140" width="163.41" height="21.09" as="geometry" />
         </mxCell>
         <mxCell id="0yXzGm1ALeRcCWGyxMI9-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/elasto-online-store/26/00-ELASTOFONT-STORE-READY_user-circle-128.png;strokeColor=#808080;fillColor=#CCCCCC;fontSize=17;fontColor=#FFFFFF;" vertex="1" parent="ew6zjy4uRNtWZPsNfuG--1">
-          <mxGeometry x="1059.75" y="75" width="106" height="106" as="geometry" />
+          <mxGeometry x="1037" y="76" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="0yXzGm1ALeRcCWGyxMI9-5" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fontSize=17;fillColor=#CCCCCC;" vertex="1" parent="ew6zjy4uRNtWZPsNfuG--1">
           <mxGeometry x="757" y="240" width="432" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="0yXzGm1ALeRcCWGyxMI9-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#808080;fillColor=#CCCCCC;fontSize=17;fontColor=#FFFFFF;" vertex="1" parent="ew6zjy4uRNtWZPsNfuG--1">
-          <mxGeometry x="1053.75" y="300" width="116" height="116" as="geometry" />
         </mxCell>
         <mxCell id="0yXzGm1ALeRcCWGyxMI9-7" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Dr Lorem Ipsum&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ew6zjy4uRNtWZPsNfuG--1">
           <mxGeometry x="769" y="310" width="137.86" height="21.09" as="geometry" />
@@ -1085,11 +1082,20 @@
         <mxCell id="0yXzGm1ALeRcCWGyxMI9-9" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Follow Up Therapy&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ew6zjy4uRNtWZPsNfuG--1">
           <mxGeometry x="769" y="370" width="163.41" height="21.09" as="geometry" />
         </mxCell>
-        <mxCell id="0yXzGm1ALeRcCWGyxMI9-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/elasto-online-store/26/00-ELASTOFONT-STORE-READY_user-circle-128.png;strokeColor=#808080;fillColor=#CCCCCC;fontSize=17;fontColor=#FFFFFF;" vertex="1" parent="ew6zjy4uRNtWZPsNfuG--1">
-          <mxGeometry x="1058.75" y="305" width="106" height="106" as="geometry" />
-        </mxCell>
         <mxCell id="0yXzGm1ALeRcCWGyxMI9-11" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;shadow=0;dashed=0;shape=mxgraph.ios7.icons.video_conversation;fillColor=#CCCCCC;fontSize=17;fontColor=#FFFFFF;strokeColor=#333333;" vertex="1" parent="ew6zjy4uRNtWZPsNfuG--1">
           <mxGeometry x="1079.75" y="-407" width="90" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="HK-oio5E_eEeTzGJfNsz-0" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.phone;strokeColor=#333333;fontSize=17;fontColor=#FFFFFF;fillColor=#333333;gradientColor=#CCCCCC;" vertex="1" parent="ew6zjy4uRNtWZPsNfuG--1">
+          <mxGeometry x="1120" y="150" width="40" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="HK-oio5E_eEeTzGJfNsz-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#808080;fillColor=#CCCCCC;fontSize=17;fontColor=#FFFFFF;" vertex="1" parent="ew6zjy4uRNtWZPsNfuG--1">
+          <mxGeometry x="1024" y="304" width="136" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="HK-oio5E_eEeTzGJfNsz-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/elasto-online-store/26/00-ELASTOFONT-STORE-READY_user-circle-128.png;strokeColor=#808080;fillColor=#CCCCCC;fontSize=17;fontColor=#FFFFFF;" vertex="1" parent="ew6zjy4uRNtWZPsNfuG--1">
+          <mxGeometry x="1037" y="320" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HK-oio5E_eEeTzGJfNsz-3" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.phone;strokeColor=#333333;fontSize=17;fontColor=#FFFFFF;fillColor=#333333;gradientColor=#CCCCCC;" vertex="1" parent="ew6zjy4uRNtWZPsNfuG--1">
+          <mxGeometry x="1120" y="394" width="40" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
